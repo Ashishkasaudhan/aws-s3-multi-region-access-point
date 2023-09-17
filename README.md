@@ -73,18 +73,21 @@ Picture a scenario where your critical data effortlessly traverses geographic bo
 ___
 ## Terraform Execution Steps To Create ImageBuilder
 * Clone the git repo.
-* Go To AppStream-ImageBuilder Directory. 
+* Go To aws-s3-multi-region-access-point Directory. 
 * Update the variable into tfvars file as per your environment/requirement. 
-* Push change to git repo.
+![code-tree](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/55537ac7-0eef-439c-ad43-b8928e7d178c)
+
 * To initialize a working directory containing Terraform configuration files:
 
 <pre><code>terraform init</pre></code>
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/12654660/214476219-5816128f-82da-4936-bd68-6f6dfad2ccd2.png">
+![terraform-init](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/21dedb1a-836e-418c-9296-ec3f71973529)
+
 
 * To validate the Terraform configuration
 
 <pre><code>terraform validate</pre></code>
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/12654660/214476518-840397ad-dbdb-4e62-a862-4fa989042519.png">
+![image](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/fed353d4-cee9-4dd4-9c3d-89cf50cacaff)
+
 
 * To format your Terraform code 
 
