@@ -39,6 +39,7 @@ ___
 <pre><code>terraform plan</pre></code>
 ![image](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/10b92c2f-7ebe-4a70-bc31-84e0f33035b8)
 
+* To Apply the configuration, which provisioned services on  your Aws account:
 
 <pre><code>terraform apply --auto-approve</pre></code>
   ![image](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/878c4304-2a14-4696-bb01-b25b9a223fc0)
