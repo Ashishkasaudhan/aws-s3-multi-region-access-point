@@ -70,6 +70,34 @@ Picture a scenario where your critical data effortlessly traverses geographic bo
 | <a name="output_multi_access_point_domain_name"></a> [multi\_access\_point\_domain\_name](#output\_multi\_access\_point\_domain\_name) | domain\_name of multi\_region\_access\_point |
 | <a name="output_multi_access_point_status"></a> [multi\_access\_point\_status](#output\_multi\_access\_point\_status) | Status of multi\_region\_access\_point |
 
+___
+## Terraform Execution Steps To Create ImageBuilder
+* Clone the git repo.
+* Go To AppStream-ImageBuilder Directory. 
+* Update the variable into tfvars file as per your environment/requirement. 
+* Push change to git repo.
+* To initialize a working directory containing Terraform configuration files:
+
+<pre><code>terraform init</pre></code>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/12654660/214476219-5816128f-82da-4936-bd68-6f6dfad2ccd2.png">
+
+* To validate the Terraform configuration
+
+<pre><code>terraform validate</pre></code>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/12654660/214476518-840397ad-dbdb-4e62-a862-4fa989042519.png">
+
+* To format your Terraform code 
+
+<pre><code>terraform fmt --recursive</pre></code>
+
+* To create an execution plan, which lets you preview the changes to your infrastructure:
+
+<pre><code>terraform plan</pre></code>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/12654660/216030735-b58f4441-958b-4d20-80a5-58c8f155df94.png">
+
+<pre><code>terraform apply --auto-approve</pre></code>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/12654660/216030735-b58f4441-958b-4d20-80a5-58c8f155df94.png">
+
 ## Reference links 
 * https://aws.amazon.com/s3/features/multi-region-access-points/
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3control_multi_region_access_point
