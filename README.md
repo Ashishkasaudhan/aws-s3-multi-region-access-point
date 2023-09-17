@@ -6,6 +6,10 @@ AWS Multi-Region Access Points - a transformative solution that redefines th
 
 Picture a scenario where your critical data effortlessly traverses geographic boundaries, serving users, applications, and services seamlessly, all while adhering to data sovereignty regulations and ensuring high availability. This is the promise of MRAPs - an architectural marvel that simplifies global data access, bolsters disaster recovery strategies, and optimizes content delivery across continents.
 
+![mare-bucket](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/990be432-d50b-40a8-91ef-7588508a67d3)
+
+![bucket](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/1c97453d-015f-402d-8e9a-094c7105f134)
+
 ![replication](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/6fa0d9df-2708-47e4-b9e3-802f056771e5)
 
 ![replcation-2](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/21505683-29bb-4ba7-9c1d-41e4c97a67cf)
