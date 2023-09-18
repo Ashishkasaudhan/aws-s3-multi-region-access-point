@@ -9,9 +9,10 @@ AWS Multi-Region Access Points - a transformative solution that redefines th
 
 Amazon Simple Storage Service (S3) Multi-Region Access Points provide a global endpoint for routing Amazon S3 request traffic between AWS Regions. Each global endpoint routes Amazon S3 data request traffic from multiple sources, including traffic originating in Amazon Virtual Private Clouds (VPCs), from on-premises data centers over AWS PrivateLink, and from the public internet without building complex networking configurations with separate endpoints.
 
-![replication](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/6fa0d9df-2708-47e4-b9e3-802f056771e5)
+![image](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/0e0b73e4-8bbf-4500-87a3-da252c925339)
+___
+![image](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/fa00661b-b38f-4f66-9afc-41e6f611ef64)
 
-![replcation-2](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/21505683-29bb-4ba7-9c1d-41e4c97a67cf)
 
 
 ___
