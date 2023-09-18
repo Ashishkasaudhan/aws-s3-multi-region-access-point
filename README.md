@@ -4,7 +4,10 @@
 # Introduction
 AWS Multi-Region Access Points - a transformative solution that redefines the way organizations store, access, and protect their data in an increasingly interconnected world. In this comprehensive guide, we embark on a voyage of discovery into the realm of Multi-Region Access Points (MRAPs), unveiling their significance, exploring their multifaceted capabilities, and equipping you with the knowledge to harness their potential.
 
-Picture a scenario where your critical data effortlessly traverses geographic boundaries, serving users, applications, and services seamlessly, all while adhering to data sovereignty regulations and ensuring high availability. This is the promise of MRAPs - an architectural marvel that simplifies global data access, bolsters disaster recovery strategies, and optimizes content delivery across continents.
+## Intro To Multi-Region Access Points :
+
+
+Amazon Simple Storage Service (S3) Multi-Region Access Points provide a global endpoint for routing Amazon S3 request traffic between AWS Regions. Each global endpoint routes Amazon S3 data request traffic from multiple sources, including traffic originating in Amazon Virtual Private Clouds (VPCs), from on-premises data centers over AWS PrivateLink, and from the public internet without building complex networking configurations with separate endpoints.
 
 ![replication](https://github.com/Ashishkasaudhan/aws-s3-multi-region-access-point/assets/12654660/6fa0d9df-2708-47e4-b9e3-802f056771e5)
 
