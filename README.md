@@ -66,6 +66,7 @@ ___
 
 
 ## Reference links 
+* https://medium.com/ashishkasaudhan/unlocking-global-data-excellence-aws-multi-region-access-points-unveiled-60ee9c81db41
 * https://aws.amazon.com/s3/features/multi-region-access-points/
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3control_multi_region_access_point
 * https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-add-config.html
