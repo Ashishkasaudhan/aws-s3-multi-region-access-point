@@ -116,16 +116,16 @@ ___
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_access_point_name"></a> [access\_point\_name](#input\_access\_point\_name) | Name for multi\_region\_access\_point | `string` | `"example-mrap"` | no |
-| <a name="input_primary_bucket_name"></a> [primary\_bucket\_name](#input\_primary\_bucket\_name) | primary bucket name to be created for multi\_region\_access\_point | `string` | `"example1"` | no |
-| <a name="input_secondary_bucket_name"></a> [secondary\_bucket\_name](#input\_secondary\_bucket\_name) | secondary bucket name to be created for multi\_region\_access\_point | `string` | `"example2"` | no |
+| <a name="input_primary_bucket_name"></a> [primary\_bucket\_name](#input\_primary\_bucket\_name) | Primary bucket name to be created for multi\_region\_access\_point | `string` | `"example1"` | no |
+| <a name="input_secondary_bucket_name"></a> [secondary\_bucket\_name](#input\_secondary\_bucket\_name) | Secondary bucket name to be created for multi\_region\_access\_point | `string` | `"example2"` | no |
 
 ## Outputs
 
 | Name | Description |
 |------|-------------|
-| <a name="output_multi_access_point_alias"></a> [multi\_access\_point\_alias](#output\_multi\_access\_point\_alias) | alias of multi\_region\_access\_point |
-| <a name="output_multi_access_point_arn"></a> [multi\_access\_point\_arn](#output\_multi\_access\_point\_arn) | arn of multi\_region\_access\_point |
-| <a name="output_multi_access_point_domain_name"></a> [multi\_access\_point\_domain\_name](#output\_multi\_access\_point\_domain\_name) | domain\_name of multi\_region\_access\_point |
+| <a name="output_multi_access_point_alias"></a> [multi\_access\_point\_alias](#output\_multi\_access\_point\_alias) | Alias of multi\_region\_access\_point |
+| <a name="output_multi_access_point_arn"></a> [multi\_access\_point\_arn](#output\_multi\_access\_point\_arn) | Arn of multi\_region\_access\_point |
+| <a name="output_multi_access_point_domain_name"></a> [multi\_access\_point\_domain\_name](#output\_multi\_access\_point\_domain\_name) | Domain\_name of multi\_region\_access\_point |
 | <a name="output_multi_access_point_status"></a> [multi\_access\_point\_status](#output\_multi\_access\_point\_status) | Status of multi\_region\_access\_point |
 ___
 <!-- END_TF_DOCS -->
