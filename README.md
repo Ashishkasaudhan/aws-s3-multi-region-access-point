@@ -1,6 +1,8 @@
 # Aws-s3-multi-region-access-point
 <!-- BEGIN_TF_DOCS -->
 
+## In this Implementation, we are setting up an MRAP with 2 bucket which will be performing replication from one bucket to another and Active-Active DR/Failover .
+
 # Enterprise Scenario
 AWS Multi-Region Access Points (MRAPs) offer several potential business use cases where organizations can benefit from simplified data access and management across multiple AWS regions. Here are some common business use cases for MRAPs:
 
